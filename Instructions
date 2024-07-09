@@ -1,0 +1,26 @@
+Install Flask:
+Make sure you have Flask installed in your Python environment. You can install it using pip:
+  pip install Flask
+
+Create a New Directory for Your Project:
+  mkdir caesar_cipher_app
+  cd caesar_cipher_app
+
+Create the Flask Application
+Create the Flask Application File:
+Create a new file named app.py and paste the provided code into it.
+  touch app.py
+
+
+Run the Flask Application:
+Start the Flask server to make sure everything is working correctly:
+  python app.py
+
+Prepare for GitHub
+Initialize a Git Repository:
+  git init
+
+Create a .gitignore File:
+Create a .gitignore file to exclude files and directories that shouldn't be in your repository, such as the virtual environment.
+  touch .gitignore
+
